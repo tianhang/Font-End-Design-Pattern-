@@ -1,3 +1,3 @@
 # JavaScript-Design-Pattern-OOP
 
-##proxy
+## proxy
